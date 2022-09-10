@@ -10,6 +10,9 @@ public class method {
         Double alas = 18.0;
         Double tinggi = 30.0;
         System.out.println(luassegitiga(alas,tinggi));
+
+        Double jari2 = 19.0;
+        System.out.println(luaslingkaran(jari2)); 
     }
 
     static void heloo(){
@@ -34,5 +37,11 @@ public class method {
     static Double luassegitiga(Double alas, Double tinggi){
         Double hasil = (alas * tinggi) / 2;
         return hasil;
+    }
+
+
+    static Double luaslingkaran(Double jari2){
+        Double hasill = 3.14 * jari2 *  jari2;
+        return hasill;
     }
 }
