@@ -1,4 +1,7 @@
 public class breakandcontinue {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         var nilai = 1;
         while (true) {
@@ -14,7 +17,6 @@ public class breakandcontinue {
                 continue;
             }
             System.out.println(angka);
-            // 2.51 for each
         }
     }
 }
