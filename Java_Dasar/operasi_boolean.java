@@ -1,3 +1,4 @@
+package Java_Dasar;
 public class operasi_boolean {
     public static void main(String[] args) {
         // operator &&(dan) ||(atau) !(kebalikan)

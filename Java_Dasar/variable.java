@@ -1,3 +1,4 @@
+package Java_Dasar;
 public class variable {
     public static void main(String[] args) {
         String name; //jika tidak ingin memasukkan value langsung

@@ -1,3 +1,4 @@
+package Java_Dasar;
 public class if_else_else_if_statement {
     public static void main(String[] args) {
         var nilai = 65;

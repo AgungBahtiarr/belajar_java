@@ -1,3 +1,4 @@
+package Java_Dasar;
 public class foreach {
     public static void main(String[] args) {
         //for 

@@ -1,3 +1,4 @@
+package Java_Dasar;
 public class method {
     public static void main(String[] args) {
         heloo(); //memanggil method di bawah

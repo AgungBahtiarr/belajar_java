@@ -1,3 +1,4 @@
+package Java_Dasar;
 /**
  * primitif_dan_tidak
  */
