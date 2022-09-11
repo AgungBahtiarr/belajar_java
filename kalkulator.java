@@ -61,7 +61,7 @@ public class kalkulator {
 
     static void pertambahan(int nilai1, int nilai2){
         System.out.println(nilai1 + nilai2);
-        System.out.println("terimakasih--");
+        System.out.println("--terimakasih--");
     }
     static void pengurangan(int nilai1, int nilai2){
         System.out.println(nilai1 - nilai2);
