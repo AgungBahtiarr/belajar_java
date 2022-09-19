@@ -76,7 +76,6 @@ public class kalkulator {
     static void pembagian(int nilai1, int nilai2){
         System.out.println(nilai1 / nilai2);
         System.out.println("--terimakasih--");
-
     }
     static void modulus(int nilai1, int nilai2){
         System.out.println(nilai1 % nilai2);
