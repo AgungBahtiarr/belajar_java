@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch kasir",
+            "request": "launch",
+            "mainClass": "Java_Kampus.kasir",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch rumus",
+            "request": "launch",
+            "mainClass": "Java_Kampus.rumus",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch rataRata",
+            "request": "launch",
+            "mainClass": "Java_Kampus.rataRata",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ganjilGenap",
+            "request": "launch",
+            "mainClass": "Java_Dasar.ganjilGenap",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch kelipatan10",
+            "request": "launch",
+            "mainClass": "Java_Dasar.kelipatan10",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch praktek",
+            "request": "launch",
+            "mainClass": "Java_Dasar.praktek",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch kelulusanKontrak",
+            "request": "launch",
+            "mainClass": "Java_Dasar.kelulusanKontrak",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch min",
+            "request": "launch",
+            "mainClass": "Java_Dasar.min",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch absen",
+            "request": "launch",
+            "mainClass": "Java_Dasar.absen",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "Java_Dasar.array",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch breakandcontinue",
+            "request": "launch",
+            "mainClass": "Java_Dasar.breakandcontinue",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch dowhileloop",
+            "request": "launch",
+            "mainClass": "Java_Dasar.dowhileloop",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch foreach",
+            "request": "launch",
+            "mainClass": "Java_Dasar.foreach",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch forstatement",
+            "request": "launch",
+            "mainClass": "Java_Dasar.forstatement",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloworld",
+            "request": "launch",
+            "mainClass": "Java_Dasar.helloworld",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch if_else_else_if_statement",
+            "request": "launch",
+            "mainClass": "Java_Dasar.if_else_else_if_statement",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch kalkulator",
+            "request": "launch",
+            "mainClass": "Java_Dasar.kalkulator",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch latihan",
+            "request": "launch",
+            "mainClass": "Java_Dasar.latihan",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch luaslingkaran",
+            "request": "launch",
+            "mainClass": "Java_Dasar.luaslingkaran",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch method",
+            "request": "launch",
+            "mainClass": "Java_Dasar.method",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch methodoverloading",
+            "request": "launch",
+            "mainClass": "Java_Dasar.methodoverloading",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch operasi_boolean",
+            "request": "launch",
+            "mainClass": "Java_Dasar.operasi_boolean",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch operasi_mtk",
+            "request": "launch",
+            "mainClass": "Java_Dasar.operasi_mtk",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch operasi_perbandingan",
+            "request": "launch",
+            "mainClass": "Java_Dasar.operasi_perbandingan",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch primitif_dan_tidak",
+            "request": "launch",
+            "mainClass": "Java_Dasar.primitif_dan_tidak",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursivemethod",
+            "request": "launch",
+            "mainClass": "Java_Dasar.recursivemethod",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch_statement",
+            "request": "launch",
+            "mainClass": "Java_Dasar.switch_statement",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch terrnary",
+            "request": "launch",
+            "mainClass": "Java_Dasar.terrnary",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Java_Dasar.test",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch variable",
+            "request": "launch",
+            "mainClass": "Java_Dasar.variable",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileloop",
+            "request": "launch",
+            "mainClass": "Java_Dasar.whileloop",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonApp",
+            "request": "launch",
+            "mainClass": "Java_Oop.PersonApp",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch car_app",
+            "request": "launch",
+            "mainClass": "Java_Oop.car_app",
+            "projectName": "belajar_java_2902db2f"
+        }
+    ]
+}

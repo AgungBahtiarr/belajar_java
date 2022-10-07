@@ -20,6 +20,7 @@ public class absen {
                 System.out.println("salah kelas");
             }
         }
+        scan.close();
     }
 }
 

@@ -5,7 +5,7 @@ public class foreach {
     String[] array1 = {"agung", "hadi", "daniel"
     };
 
-    for(var i = 0; i<array1.length;i++){
+    for(var i = 0; i < array1.length; i++){
         System.out.println(array1[i]);
     }
 
@@ -14,4 +14,5 @@ public class foreach {
         System.out.println(value);
     }
     }
+    
 }

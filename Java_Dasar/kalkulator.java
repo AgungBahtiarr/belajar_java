@@ -57,7 +57,9 @@ public class kalkulator {
             default:
                 System.out.println("Operasi tidak ditemukan");
                 break;
+                
         }
+        keyboard.close();
     }
 
     static void pertambahan(int nilai1, int nilai2){

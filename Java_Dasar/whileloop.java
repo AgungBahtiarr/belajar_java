@@ -7,4 +7,6 @@ public class whileloop {
             nilai++;
         }
     }
+
+
 }

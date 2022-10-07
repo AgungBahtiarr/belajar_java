@@ -28,6 +28,10 @@ public class variable {
         final String turu = "hayuukk";
         System.out.println(turu);
         // turu = "turu"; tidak bisa di ubah
+
+        final String finalKonstanta;
+        finalKonstanta = "10";
+        System.out.println(finalKonstanta);
         
     }
 
