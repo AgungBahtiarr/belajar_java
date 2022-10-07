@@ -11,12 +11,6 @@ public class ganjilGenap {
         System.out.print("Bilangan ini Genap? ");
         boolean genap = bilangan%2==0;
         System.out.println(genap);
-        
-
-        
-
-        
-        
         // if(bilangan%2==0){
         //     System.out.println("Bilangan "+bilangan+" adalah genap");
         // }else{
