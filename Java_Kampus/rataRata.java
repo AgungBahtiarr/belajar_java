@@ -1,7 +1,5 @@
 package Java_Kampus;
 
-import java.util.Scanner;
-
 /**
  * rataRata
  */
