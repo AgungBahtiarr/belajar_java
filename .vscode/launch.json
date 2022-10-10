@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch menebakUmur",
+            "request": "launch",
+            "mainClass": "Java_Kampus.menebakUmur",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch penjumlahan",
+            "request": "launch",
+            "mainClass": "Java_Kampus.penjumlahan",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
             "name": "Launch kasir",
             "request": "launch",
             "mainClass": "Java_Kampus.kasir",
