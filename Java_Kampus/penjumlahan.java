@@ -1,7 +1,6 @@
 package Java_Kampus;
 import java.util.Scanner;
 
-import Java_Dasar.scanner;
 public class penjumlahan {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
