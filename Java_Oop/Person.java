@@ -16,6 +16,6 @@ class Person {
     }
     void sayHello(String paramname){
         System.out.println("Hello " + paramname + ", my name is " + name);
-        // membuat method, void= method yang tidak untuk mengembalikan nilai/ return
+        // membuat method, void = method yang tidak untuk mengembalikan nilai/ return
     }
 }

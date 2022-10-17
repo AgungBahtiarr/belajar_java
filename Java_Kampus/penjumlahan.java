@@ -10,5 +10,6 @@ public class penjumlahan {
         int bil2 = input.nextInt();
         int hasil = bil1 + bil2;
         System.out.println("Hasil penjumlahan dari " + bil1 +" + " + bil2 + " Adalah = 2" + hasil );
+        input.close();
     }
 }

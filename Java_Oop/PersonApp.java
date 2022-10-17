@@ -21,5 +21,6 @@ public class PersonApp {
         Person person3;
         person3 = new Person("agung", "kalibaru");
 
+
     }
 }
