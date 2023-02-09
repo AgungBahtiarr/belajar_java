@@ -45,8 +45,9 @@ public class array {
             {"agung" , "fikron"},
             {"malik", "ilham"}
         };
-        System.out.println(member[1][1]); //kotak pertama array pertama //kotak ke2 array di dalam array pilihan kotak pertama
-
+        System.out.println(member[1][0]); //kotak pertama array pertama //kotak ke2 array di dalam array pilihan kotak pertama
+        System.out.println(member.length);
+        
     }
 
 }

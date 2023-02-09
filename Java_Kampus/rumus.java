@@ -1,4 +1,3 @@
-package Java_Kampus;
 import java.util.Scanner;
 public class rumus {
     public static void main(String[] args) {

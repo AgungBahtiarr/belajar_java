@@ -1,5 +1,4 @@
-package Java_Dasar;
-public class whileloop {
+public class whileAndDoWhile {
     public static void main(String[] args) {
         var nilai=1;
         while(nilai<=100){

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch forLoop",
+            "request": "launch",
+            "mainClass": "forLoop",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch uasWriteUp",
+            "request": "launch",
+            "mainClass": "Java_Dasar.uasWriteUp",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch scanner",
+            "request": "launch",
+            "mainClass": "Java_Dasar.scanner",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoop",
+            "request": "launch",
+            "mainClass": "Java_Kampus.forLoop",
+            "projectName": "belajar_java_2902db2f"
+        },
+        {
+            "type": "java",
             "name": "Launch ifstatement",
             "request": "launch",
             "mainClass": "Java_Kampus.ifstatement",

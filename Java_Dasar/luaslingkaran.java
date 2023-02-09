@@ -11,5 +11,6 @@ public class luaslingkaran {
         System.out.print("Luas Lingkaran adalah = ");
         System.out.print(lo);
         scan.close();
+	System.out.println("Bismillah");
     }
 }

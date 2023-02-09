@@ -1,5 +1,3 @@
-package Java_Kampus;
-
 /**
  * rataRata
  */

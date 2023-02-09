@@ -1,4 +1,3 @@
-package Java_Kampus;
 import java.util.Scanner;
 public class menebakUmur {
     public static void main(String[] args) {

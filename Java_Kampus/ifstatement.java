@@ -1,5 +1,3 @@
-package Java_Kampus;
-
 public class ifstatement {
     public static void main(String[] args) {
         var nilai = 70;

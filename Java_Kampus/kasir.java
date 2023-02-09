@@ -1,5 +1,3 @@
-package Java_Kampus;
-
 public class kasir {
     public static void main(String[] args) {
         double hargaBeli = 19.93;

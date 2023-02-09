@@ -4,6 +4,7 @@ package Java_Dasar;
 public class recursivemethod {
     public static void main(String[] args) {
         System.out.println(factorialrecursive(5));
+    
     }
 
     static int factorialrecursive(int value){
@@ -13,4 +14,5 @@ public class recursivemethod {
             return value * factorialrecursive(value-1);
         }
     }
+
 }
