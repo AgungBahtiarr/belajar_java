@@ -1,3 +1,4 @@
+package Tugas2;
 class Tabungan{
    int saldo;
 

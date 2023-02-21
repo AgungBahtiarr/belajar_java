@@ -1,3 +1,4 @@
+package Tugas2;
 class Account {
     int a;
     int b;

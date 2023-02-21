@@ -1,3 +1,4 @@
+package Tugas2;
 public class Test {
     public static void main(String[] args) {
         Siswa anak = new Siswa();

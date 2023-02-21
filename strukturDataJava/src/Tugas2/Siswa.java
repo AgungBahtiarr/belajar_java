@@ -1,3 +1,4 @@
+package Tugas2;
 public class Siswa {
     int nrp;
     String nama;

@@ -1,3 +1,4 @@
+package Tugas2;
 public class Point {
     public double x, y;
     Point(double x_value, double y_value){

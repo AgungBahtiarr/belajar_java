@@ -1,3 +1,4 @@
+package Tugas2;
 class Kitty {
     int kittyAge;
 
