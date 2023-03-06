@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "faktorialRekursi",
+            "request": "launch",
+            "mainClass": "faktorialRekursi",
+            "projectName": "belajar_java_73b6a30f"
+        },
+        {
+            "type": "java",
             "name": "BelajarFaktorial",
             "request": "launch",
             "mainClass": "BelajarFaktorial",
