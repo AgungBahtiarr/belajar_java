@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BelajarFaktorial",
+            "request": "launch",
+            "mainClass": "BelajarFaktorial",
+            "projectName": "belajar_java_73b6a30f"
+        },
+        {
+            "type": "java",
             "name": "Launch forLoop",
             "request": "launch",
             "mainClass": "forLoop",
