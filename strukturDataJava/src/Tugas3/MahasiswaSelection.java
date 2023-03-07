@@ -1,9 +1,8 @@
 package Tugas3;
 
-public class Mahasiswa{
+public class MahasiswaSelection{
 
-    public static String[] nama = {"Agung", "Rifki", "Falen", "Adam", "Ade", "Riza"};
-    public static Integer[] nrp = {1223,12344,2344,4556,6677,7890};
+    public static String[] nama = {"Agung", "Rifki", "Falen", "Adam", "Ade", "Riza","Oscar"};
 
     public static void selectionSortAscending(String[] dataArray) {
         //Logic
@@ -21,11 +20,15 @@ public class Mahasiswa{
             dataArray[indexArray] = tampungan;
         }
         for (int i = 0; i < dataArray.length; i++) {
-            System.out.println("Nama : " + dataArray[i] + "NRP : "+nrp[i]);
+            System.out.println("Nama : " + dataArray[i]);
         }
     }
-    
     public static void main(String[] args) {
+        System.out.println("Sebelum di sorting: ");
+        for (int i = 0; i < nama.length; i++) {
+            System.out.print(nama[i]+" ");
+        }
+        System.out.println("\nSesudah disorting: ");
         selectionSortAscending(nama);
     }
 }

@@ -25,7 +25,7 @@ public class selectionSort {
         }
 
         long waktu  = System.currentTimeMillis()-awal;
-        System.out.println(waktu);
+        System.out.println("Waktu yang di perlukan untuk sorting : " + waktu + "ms");
         System.out.println("Hasil akhir ");
         sselectionSort.tampil(data);
     }
