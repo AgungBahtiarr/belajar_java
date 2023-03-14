@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Tugas3.SelectionSort",
+            "projectName": "belajar_java_73b6a30f"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "belajar_java_73b6a30f"
+        },
+        {
+            "type": "java",
+            "name": "dowhileloop",
+            "request": "launch",
+            "mainClass": "Java_Dasar.dowhileloop",
+            "projectName": "belajar_java_73b6a30f"
+        },
+        {
+            "type": "java",
             "name": "faktorialRekursi",
             "request": "launch",
             "mainClass": "faktorialRekursi",
