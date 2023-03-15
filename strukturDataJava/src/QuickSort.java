@@ -13,6 +13,7 @@ public class QuickSort {
         swap(arr, i+1, high);
         return (i+1);
     }
+
     public static void quickSort(int arr[],int low , int high){
         int pi;
         if (low < high) {
@@ -35,6 +36,7 @@ public class QuickSort {
         }
         System.out.println();
     }
+    
     public static void main(String[] args) {
         int[] arrayku = {5,3,6,4,7,2,1,8};
         int n = arrayku.length -1;
