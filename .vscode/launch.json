@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "belajar_java_73b6a30f"
+        },
+        {
+            "type": "java",
             "name": "SelectionSort",
             "request": "launch",
             "mainClass": "Tugas3.SelectionSort",
